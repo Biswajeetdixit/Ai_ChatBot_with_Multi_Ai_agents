@@ -58,7 +58,7 @@ Add sliders, toggles, or dropdowns to adjust query preferences, model temperatur
 Use the `requirements.txt` file to install all necessary libraries:  
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ### 🔑 **Set Up Environment Variables**
 Create a .env file in the root directory.
