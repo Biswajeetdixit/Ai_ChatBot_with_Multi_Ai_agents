@@ -62,5 +62,7 @@ pip install -r requirements.txt
 ```
 
 ### 🔑 **Set Up Environment Variables**
-Create a .env file in the root directory.
-Add your API key:
+1. Create a .env file in the root directory.
+
+2. Add your API key:
+
