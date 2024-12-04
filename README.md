@@ -51,3 +51,15 @@ Add sliders, toggles, or dropdowns to adjust query preferences, model temperatur
    ```bash
    git clone https://github.com/your-username/langchain-enhanced-chatbot.git
    cd langchain-enhanced-chatbot
+
+
+   ## 🖥️ Install Dependencies  
+
+Use the `requirements.txt` file to install all necessary libraries:  
+
+```bash
+pip install -r requirements.txt
+
+### 🔑 **Set Up Environment Variables**
+Create a .env file in the root directory.
+Add your API key:
