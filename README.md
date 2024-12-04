@@ -10,25 +10,25 @@ Welcome to the **LangChain Enhanced Chatbot**! This advanced chatbot combines th
 ## 🎯 Project Highlights  
 
 - 🤖 **AI-Powered Chatbot**: Provides seamless interactions and meaningful conversations.
-- 
+  
 - 🌐 **Multi-Source Search**:
-- 
+
   - 📚 **ArXiv**: Access academic research papers and abstracts.
-  - 
+ 
   - 🌐 **Wikipedia**: Summarized, quick-reference articles.
-  - 
+
   - 🦆 **DuckDuckGo**: Explore general web search results.
-  - 
+
   - 🎓 **Google Scholar**: Get detailed publication data.
-  -  
+   
   - 📺 **YouTube**: Fetch links to top videos for tutorials or learning content.
-  - 
+  
 - ⚡ **Live Response Streaming**: Instantaneous results while queries are processed.
-- 
+ 
 - 💬 **Chat History**: Easily track your past conversations.
--   
+  
 - 🔑 **Secure API Handling**: Manage sensitive API keys with .env configuration.
-- 
+
 - 💡 **Extensibility**: Built with modularity in mind for adding more tools and features.  
 
 ---
@@ -126,21 +126,21 @@ Demo Video: Watch Demo
 ## 🔮 Future Improvements  
 
 - 🌍 **Multilingual Support**: Enable searches in multiple languages to make the chatbot more accessible worldwide.
--   
+  
 - 🧠 **Advanced NLP Models**: Integrate fine-tuned models for better semantic understanding and response generation.
--  
+  
 - 📊 **Visual Insights**: Add dynamic graphs, charts, and visualizations for complex queries like statistics or trends.
--   
+   
 - 🔧 **Custom APIs**: Enable user-defined APIs for personalized or domain-specific results.
--   
+  
 - 🤖 **Voice Interaction**: Incorporate speech-to-text and text-to-speech for a hands-free chatbot experience.
--  
+  
 - 💡 **Smart Recommendations**: Suggest related queries or resources based on the user’s search history and behavior.
--   
+  
 - 🔍 **Sentiment Analysis**: Detect user sentiment to tailor responses more empathetically.
--  
+ 
 - 🛡️ **Improved Security**: Implement end-to-end encryption and authentication for sensitive data queries.
--  
+ 
 - 🚀 **Scalability**: Optimize backend processing for handling larger data and concurrent user queries.
 
 - 💾 **Offline Mode**: Allow limited chatbot functionality without an active internet connection.  
