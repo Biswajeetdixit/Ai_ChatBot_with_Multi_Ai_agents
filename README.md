@@ -66,3 +66,25 @@ pip install -r requirements.txt
 
 2. Add your API key:
 
+```bash
+GROQ_API_KEY=your-groq-api-key
+```
+###
+Here’s the requested content formatted as markdown code blocks for your README:
+
+markdown
+Copy code
+## 🖥️ Install Dependencies  
+
+Use the `requirements.txt` file to install all necessary libraries:  
+
+```bash
+pip install -r requirements.txt
+🔑 Set Up Environment Variables
+Create a .env file in the root directory.
+Add your API key:
+plaintext
+Copy code
+GROQ_API_KEY=your-groq-api-key
+
+🚀 Run the Application
