@@ -1,0 +1,42 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+duckdb
+pandas
+openai
+langchain-groq
+duckduckgo-search
+pymupdf
+arxiv
+wikipedia
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+huggingface_hub
+
+
+streamlit                  # For building the web app interface
+langchain                  # Core LangChain library
+langchain_groq             # Groq API integration for LangChain
+langchain_community        # Community-contributed tools (ArXiv, Wikipedia, DuckDuckGo)
+python-dotenv              # To load environment variables from .env file
+scholarly                  # For Google Scholar API access
+biopython                  # For PubMed API access
+pytube          # For YouTube Search (lightweight YouTube search library)
