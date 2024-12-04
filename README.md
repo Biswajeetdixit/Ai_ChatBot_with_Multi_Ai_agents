@@ -69,22 +69,27 @@ pip install -r requirements.txt
 ```bash
 GROQ_API_KEY=your-groq-api-key
 ```
-###
-Here’s the requested content formatted as markdown code blocks for your README:
-
-markdown
-Copy code
-## 🖥️ Install Dependencies  
-
-Use the `requirements.txt` file to install all necessary libraries:  
+### 🚀 Run the Application
 
 ```bash
-pip install -r requirements.txt
-🔑 Set Up Environment Variables
-Create a .env file in the root directory.
-Add your API key:
-plaintext
-Copy code
-GROQ_API_KEY=your-groq-api-key
+streamlit run app.py
+```
 
-🚀 Run the Application
+### 📂 Project Structure
+```bash
+📦 langchain-enhanced-chatbot
+├── 📄 app.py               # Main application code
+├── 📄 README.md            # Project documentation
+├── 📄 requirements.txt     # Required libraries
+├── 📄 .env                 # Environment variables file
+├── 📂 assets               # Folder for images/screenshots
+
+```
+### 📸 Screenshots & Demo
+
+### 🌟 Chat Interface	🌐 API Integration
+Demo Video: Watch Demo
+
+
+
+
