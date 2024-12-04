@@ -91,5 +91,24 @@ streamlit run app.py
 Demo Video: Watch Demo
 
 
+## 🧠 Architecture  
+
+### 🔧 Tools and Technologies  
+- **LangChain**: Framework for building applications powered by language models.  
+- **Streamlit**: Interactive and user-friendly web app framework.  
+- **Groq**: Provides state-of-the-art large language model APIs.  
+
+### 🛠️ Functional Workflow  
+
+1. **User Query**:  
+   The user inputs a question or request.  
+
+2. **Processing**:  
+   - The input is processed by LangChain’s agent.  
+   - Relevant tools (ArXiv, Wikipedia, Google Scholar, YouTube, etc.) are selected dynamically.  
+
+3. **Response Generation**:  
+   - Groq API generates a structured, human-like response.  
+   - Results are displayed in the Streamlit interface.  
 
 
