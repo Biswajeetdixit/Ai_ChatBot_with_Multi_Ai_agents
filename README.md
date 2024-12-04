@@ -112,3 +112,39 @@ Demo Video: Watch Demo
    - Results are displayed in the Streamlit interface.  
 
 
+
+## 🔮 Future Improvements  
+
+- 🌍 **Multilingual Support**: Enable searches in multiple languages.  
+- 🧠 **Advanced NLP Models**: Integrate fine-tuned models for better understanding.  
+- 📊 **Visual Insights**: Add graphs or visualizations for certain query types.  
+- 🔧 **Custom APIs**: Enable user-defined APIs for personalized results.  
+
+---
+
+## 🙌 Contributions  
+
+We’d love your help to make this project even better! 🛠️  
+
+### 🤝 How to Contribute  
+
+1. Fork the repo and create a new branch.  
+2. Make your changes and test thoroughly.  
+3. Submit a pull request with a description of your changes.  
+
+---
+
+## 💬 Feedback  
+
+We value your input! Share your thoughts or report issues at:  
+
+📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+
+---
+
+## ⭐ Acknowledgements  
+
+- **LangChain Team** for their robust framework.  
+- **Groq** for powering state-of-the-art AI models.  
+- **Open-source libraries and contributors** for making this possible.  
+
