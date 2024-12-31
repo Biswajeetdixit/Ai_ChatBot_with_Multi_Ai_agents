@@ -164,7 +164,7 @@ We’d love your help to make this project even better! 🛠️
 
 We value your input! Share your thoughts or report issues at:  
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+📧 Email: [biswajeetdixit8495@gmail.com]  
 
 ---
 
