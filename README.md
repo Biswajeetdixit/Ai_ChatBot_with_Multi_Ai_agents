@@ -96,9 +96,9 @@ streamlit run app.py
 
 ```
 ### 📸 Screenshots & Demo
-![Image Description](https://github.com/Biswajeetdixit/Ai_ChatBot_with_Multi_Ai_agents/blob/8cfade0605dde622da3ce567a61a5b885ba23777/Agent.password.png)
-![Image Description](https://github.com/Biswajeetdixit/Ai_ChatBot_with_Multi_Ai_agents/blob/009f816fbcb12649eac495aa64a74d598989b83d/Agent_ML.png)
+![Image Description](https://github.com/Biswajeetdixit/Ai_ChatBot_with_Multi_Ai_agents/blob/26bb0dbf7101a3fdfec6c127a670568c434094f2/Agent_Api.png)
 ![Image Description](https://github.com/Biswajeetdixit/Ai_ChatBot_with_Multi_Ai_agents/blob/009f816fbcb12649eac495aa64a74d598989b83d/Agent.password.png)
+![Image Description](https://github.com/Biswajeetdixit/Ai_ChatBot_with_Multi_Ai_agents/blob/009f816fbcb12649eac495aa64a74d598989b83d/Agent_ML.png)
 
 ### 🌟 Chat Interface	🌐 API Integration
 Demo Video: Watch Demo
